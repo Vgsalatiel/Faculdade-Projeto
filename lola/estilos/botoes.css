@@ -1,0 +1,17 @@
+.menu{
+    text-align: center;
+    overflow: hidden;
+    background-color: #333;
+    width: auto;
+    margin-bottom: auto;  
+} 
+ul a{
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.menu a:hover{
+    background-color:rgb(117, 117, 231); 
+}
+
